@@ -1,3 +1,10 @@
 #+title: Peeker
 
 Remote host info collection & monitoring
+
+- [ ] Connection via ssh (Passwordless for safety, you aren't using ssh with passwords, right? Right?)
+- [ ] Host information gathering (multiple)
+- [ ] Ability to monitor hosts based on data gathered (something like top)
+- [ ] Single fire mode or TUI for monitoring
+- [ ] configurable via yml
+- [ ] more to come...
